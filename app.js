@@ -39,6 +39,8 @@ io.on("connection", function(socket){
     })
 })
 
-server.listen(5500, function(){
+let port = process.env.PORT || 3000;
+
+server.listen(port, function(){
     console.log("Server started at port 5500 !!");
 })
