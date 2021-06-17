@@ -3,12 +3,7 @@ A excel clone web app using HTML, CSS and vanilla JS.
 - Used stack infix evaluation technique to evaluate formula
 - Implemented socket.io for collaborative access between two users.
 
-## Setup 
-+ Clone the repo and run
-+ `npm install`
-
-## Start app
-+ `npm start`
+## Checkout app live [here](https://excel-web-app.herokuapp.com/)
 
 ## Todo
 - [x] Implement sockets
